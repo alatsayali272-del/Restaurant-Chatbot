@@ -1,0 +1,4 @@
+gradio
+requests
+python-dotenv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
